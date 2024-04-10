@@ -1,0 +1,12 @@
+//lab 2 a
+SELECT name, telegram_contact, city
+FROM student
+WHERE city IN ('Казань', 'Москва')
+ORDER BY name DESC;
+//b
+
+//c
+
+//d
+
+//e
